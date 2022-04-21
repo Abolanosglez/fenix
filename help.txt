@@ -6,20 +6,42 @@ mega (Archivos y Carpetas)
 mediafire (Archivos)
 Youtube (Nota: Descargas un poco lentas)
 Telegram (Archivos reenviados)
+Pasos para generar los link de descarga con el bot
 
--Para generar un enlace de un archivo de telegram reenvie el archivo a @tg_file_link_bot y le respondra con un mensaje de varios botons, deje apretado el primer boton y copie el enlace.
-
+1/ isiciar uno de estos bot 
+@Link4FilesBot
+@tg_file_link_bot u otro que encuentres hay varios
+Y unirse al canal de el bot 
+2/Buscar el video/apk etc.. lo q quiere descargar y reenviarlo(deje presionado y use el botón reenviar y luego seleccione el chat a reenviar) a uno de esos bot
+Para reenviar los videos al bot solamente tocas al lado del video/apk etc.. y tocas (reenviar) en las opciones luego seleccionas el bot y renvias
+3/ el bot le dara un link el cual usted debe copiar y luego pegar en su bot de descarga(este) y el bot comensara a trabajar
 ———————————————-——-
 ⚙️Administrador⚙️
 ———————————————-——-
-
-@User0075_69
+@Abolanos3
 
 ———————————————-——-
 📑Tutorial📑
 ———————————————-——-
 -Al entrar en el bot les va a pedir su cuenta de moodle, antes especifique su host (ejemplo https://moodle.uclv.edu.cu/) y depues configure su cuenta enviandole al bot el comando /account  seguido myusuario,contraseña .
 -Puede cambiar el tamaño de los archivos comprimidos enviandole al bot el comando /zips tamaño
+Para configurar el bot solo tienes q seguir los siquierntes pasos
+
+/host
+Este comando es para configurar la nuve q usaras ejemplo
+/host https://eduvirtual.uho.edu.cu/
+
+
+/acc
+Este comando es para configurar el user y la contraseña de la nuve q usaras ejemplo
+/acc usuario,contraseña
+
+/zips 
+Este comando es para configurar el tamaño de cada parte q el bot enviara dependiendo de la nuve ejemplo
+/zip 350
+
+
+/repo3 o 4 es para q la nuve t de el txt
 ———————————————-——-
 📑Ejemplo de Descarga📑
 ———————————————-——-
@@ -59,17 +81,15 @@ Telegram (Archivos reenviados)
 -Para Borrar EL archivo basta con tocar /del_10 -
 -Nota: En Caso de q extraiga un archivo q no es envie el comando /files y espera a q salga la lista de arcvhivos-
 ———————————————-——-
-📑Ejemplo Lista De Archivos📑
-———————————————-———————————————-——-
-》Archivos (4):
-/txt_0 /file_0 /del_0
-Halo.S01e03-(dual-latino)(1080p)
+📑Para descargar usando xdownloader📑
+———————————————-———————————————-
+Los pasos para descargar de la eduvirtual
 
-/txt_1 /file_1 /del_1
-How to Create a Modern Login Window in WPF using C# | C# Tutorial.
+1 Al finalizar la subida tocas el link q te llebara a la nuve el cual te dira q el archivo no existe 
 
-/txt_2 /file_2 /del_2
-Phoenix Browser Fast Safe_v9.
+2 tocar (continuar) y luego poner usuario y contraseña de la cuenta y entrar
 
-/txt_3 /file_3 /del_3
-Snapchat_v11.
+3 una ves dentro volver a tocar el link nuevamente en telegram (el q te dio el bot) y comensara la descarga 
+
+* Si algunas nubes y moodles no necesitan contraseña así q puedes descargar directamente
+Eso es todo
